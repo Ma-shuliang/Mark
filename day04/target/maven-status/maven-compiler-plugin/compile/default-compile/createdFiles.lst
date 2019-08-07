@@ -1,0 +1,5 @@
+com\mashuliang\domain\Mark.class
+com\mashuliang\service\MarkServiceImpl.class
+com\mashuliang\service\MarkService.class
+com\mashuliang\dao\MarkMapper.class
+com\mashuliang\controller\MakController.class
